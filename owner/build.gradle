@@ -1,0 +1,3 @@
+plugins { id 'com.android.application' }
+android { namespace 'mr.royal.owner'; compileSdk 35
+ defaultConfig { applicationId 'mr.royal.owner'; minSdk 24; targetSdk 28; versionCode 7; versionName '7.0' } }
