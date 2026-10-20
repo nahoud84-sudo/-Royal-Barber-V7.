@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606718892820",
+    "project_id": "royal-barber-7f5f1",
+    "storage_bucket": "royal-barber-7f5f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606718892820:android:556ad0c25c340f711ec001",
+        "android_client_info": {
+          "package_name": "mr.royal.supervisor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6wzfF-V9zTiWbLQ3EzJL9230YjeDqqpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
